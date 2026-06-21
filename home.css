@@ -122,7 +122,20 @@ img{
     -ms-border-radius:25px ;
     -o-border-radius:25px ;
 }
-
+video{
+  margin: 2pc;
+    width: 90vw;
+    border: 1px solid #00000059;
+    box-shadow: -2px -3px 8px 7px #9E9E9E;
+    border-radius: 30px;
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    -ms-border-radius: 30px;
+    -o-border-radius: 30px;
+    -o-border-radius: 30px;
+}
+audio{ border-radius:20px ; height: 6vh; margin: 2px 30%; width: 30vw; border: 1px solid #64B5F6; box-shadow: -2px -3px 8px 7px #4fc3f761; -webkit-border-radius:20px ; -moz-border-radius:20px ; -ms-border-radius:20px ; -o-border-radius:20px ;
+}
 /* text */
 .text{
     display: flex;
